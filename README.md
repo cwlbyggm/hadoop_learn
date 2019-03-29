@@ -11,3 +11,11 @@ git push -u origin master  <br>
 解决方案：<br>
 git push origin  master<br>
 git push -u origin master<br>
+
+
+2、提交代码出错2<br>
+![](https://github.com/cwlbyggm/poto/blob/master/hadoop/push_err2.png)<br>
+解决方案：<br>
+git add . <br>
+git commit -m  "" <br>
+git push -u origin master<br>
