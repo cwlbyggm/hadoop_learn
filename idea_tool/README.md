@@ -21,7 +21,16 @@ File=>Settings=>Editor=>File Tpyes<br>
 Ignore files and folders 添加 .idea;*.iml<br>
 
 6、idea 快捷方式<br>
+兼容eclipse ，setting =>keymap<br>
 光标选择， ctrl + d 复制粘贴<br>
 光标选择， ctrl + y  删除<br>
+ctrl +/ 行注释<br>
+ctrl+shift+N  搜索文件<br><br>
+ctrl +alt+空格 代码提示<br>
+
+
+
+
+
 
 
