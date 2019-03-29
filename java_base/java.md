@@ -14,7 +14,7 @@
 
 4、idea 使用git<br>
 idea vcs.xml 配置文件修改为git</p><br>
-<p><?xml version="1.0" encoding="UTF-8"?></p><br>
+
 <p><project version="4"></p><br>
  <p> <component name="VcsDirectoryMappings"></p><br>
   <p>  <mapping directory="$PROJECT_DIR$" vcs="Git" /></p><br>
