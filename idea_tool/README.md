@@ -20,3 +20,8 @@ New Project =>Java=> Project JDK找到对应JDK目录<br>
 File=>Settings=>Editor=>File Tpyes<br>
 Ignore files and folders 添加 .idea;*.iml<br>
 
+6、idea 快捷方式
+光标选择， ctrl + d 复制粘贴
+光标选择， ctrl + y  删除
+
+
