@@ -1,7 +1,7 @@
 "# hadoop_learn" <br>
-echo "# hadoop_learn" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/cwlbyggm/hadoop_learn.git
-git push -u origin master
+echo "# hadoop_learn" >> README.md  <br>
+git init  <br>
+git add README.md  <br>
+git commit -m "first commit"  <br>
+git remote add origin https://github.com/cwlbyggm/hadoop_learn.git  <br>
+git push -u origin master  <br>
