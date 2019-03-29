@@ -1,7 +1,7 @@
-"# hadoop_learn" 
-echo "# hadoop_learn" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/cwlbyggm/hadoop_learn.git
-git push -u origin master
+1、修改字体与背景颜色 <br>
+File=>Settings=>Editor=>Font<br>
+Size 字体大小<br>
+
+File=>Settings=>Editor=>Color Schema=>General<br>
+Schema:Default 默认白色底，Dacula 黑色底<br>
+
