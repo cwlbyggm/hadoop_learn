@@ -22,4 +22,8 @@ idea vcs.xml 配置文件修改为git</p><br>
 <p></project></p><br>
 
 
+5、配置git仓库地址账号密码<br>
+
+ctr+alt +s 搜索version controll ,选择github 配置<br>
+ 或者在settings 找到 version controll ,选择github 配置<br>
 
