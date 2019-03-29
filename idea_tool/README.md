@@ -6,13 +6,17 @@ Size 字体大小<br>
 File=>Settings=>Editor=>Color Schema=>General<br>
 Schema:Default 默认白色底，Dacula 黑色底<br>
 
-2、配置jdk
+2、配置jdk<br>
 
-New Project =>Java=> Project JDK找到对应JDK目录
+New Project =>Java=> Project JDK找到对应JDK目录<br>
 
-3、选择项目位置：idea_workspace 项目空间
+3、选择项目位置：idea_workspace 项目空间<br>
 
 
-4、idea汉化？
+4、idea汉化？<br>
 
+5、idea 自身项目文件隐藏<br>
+
+File=>Settings=>Editor=>File Tpyes<br>
+Ignore files and folders 添加 .idea;*.iml<br>
 
