@@ -20,6 +20,17 @@ New Project =>Java=> Project JDK找到对应JDK目录<br>
 File=>Settings=>Editor=>File Tpyes<br>
 Ignore files and folders 添加 .idea;*.iml<br>
 
+
+7、代码提示模板<br>
+File=>Settings=>Editor=>Font<br>
+Live Templetes : abbre:syso    Desrciptions:输出语句<br>
+text:System.out.println();<br>
+左下方应用该模板到 java ,配置选项可选tab 不全<br>
+
+
+
+
+
 6、idea 快捷方式<br>
 兼容eclipse ，setting =>keymap<br>
 光标选择， ctrl + d 复制粘贴<br>
@@ -168,6 +179,9 @@ Alt+F7，查找用法<br>
 Ctrl+Alt+F7，显示用法<br>
 Ctrl+F7，在文件中查找用法<br>
 Ctrl+Shift+F7，在文件中高亮显示用法<br>
+
+
+
 
 
 
