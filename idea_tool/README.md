@@ -27,7 +27,7 @@ Ignore files and folders 添加 .idea;*.iml<br>
 ctrl +/ 行注释<br>
 ctrl+shift+N  搜索文件<br><br>
 ctrl +alt+空格 代码提示<br>
-
+Shift+F6，重构 – 重命名<br>
 Alt+Insert，可以生成构造器/Getter/Setter等<br>
 Ctrl+Alt+V，可以引入变量。例如：new String(); 自动导入变量定义<br><br>
 Ctrl+Alt+T，可以把代码包在一个块内，例如：try/catch<br>
