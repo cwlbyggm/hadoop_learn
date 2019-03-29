@@ -13,3 +13,6 @@ New Project =>Java=> Project JDK找到对应JDK目录
 3、选择项目位置：idea_workspace 项目空间
 
 
+4、idea汉化？
+
+
