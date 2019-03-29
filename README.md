@@ -1,4 +1,4 @@
-"# hadoop_learn" 
+"# hadoop_learn" \n
 echo "# hadoop_learn" >> README.md
 git init
 git add README.md
