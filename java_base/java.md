@@ -13,13 +13,13 @@
 
 
 4、idea 使用git<br>
-idea vcs.xml 配置文件修改为git<br>
-<?xml version="1.0" encoding="UTF-8"?><br><br>
-<project version="4"><br>
-  <component name="VcsDirectoryMappings"><br>
-    <mapping directory="$PROJECT_DIR$" vcs="Git" /><br>
-  </component><br>
-</project><br>
+idea vcs.xml 配置文件修改为git</p><br>
+<p><?xml version="1.0" encoding="UTF-8"?></p><br>
+<p><project version="4"></p><br>
+ <p> <component name="VcsDirectoryMappings"></p><br>
+  <p>  <mapping directory="$PROJECT_DIR$" vcs="Git" /></p><br>
+ <p> </component></p><br>
+<p></project></p><br>
 
 
 
