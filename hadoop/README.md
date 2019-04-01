@@ -53,8 +53,8 @@
 
 2） 编辑vi /etc/profile
 
-export JAVA_HOME=/opt/jdk1.8.0_73
-export PATH=$JAVA_HOME/bin:$PATH
-export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
+export JAVA_HOME=/opt/jdk1.8.0_73<br>
+export PATH=$JAVA_HOME/bin:$PATH<br>
+export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar<br>
 
 3) 
