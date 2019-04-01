@@ -25,7 +25,7 @@
 <td>*</td>
 <td>ResourceManager</td>
 <td>ResourceManager</td>
-<td>ResourceManager</td>
+<td>*</td>
 </tr>
 <tr>
 <td>192.168.1.61</td>
@@ -34,7 +34,7 @@
 <td></td>
 <td>ResourceManager</td>
 <td>ResourceManager</td>
-<td>ResourceManager</td>
+<td>*</td>
 </tr>
 <tr>
 <td>192.168.1.62</td>
@@ -43,6 +43,6 @@
 <td></td>
 <td>ResourceManager</td>
 <td>ResourceManager</td>
-<td>ResourceManager</td>
+<td>*</td>
 </tr>
 </table>
