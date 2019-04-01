@@ -61,4 +61,5 @@ ssh-keygen <br>
 ssh-copy-id root@IP <br>
 
 
+<h5>4、Hadoop 安装部署</h5>
  
