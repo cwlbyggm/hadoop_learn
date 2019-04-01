@@ -14,8 +14,8 @@
 <td>NameNode</td>
 <td>DataNode</td>
 <td>ResourceManager</td>
-<td>ResourceManager</td>
-<td>ResourceManager</td>
+<td>NodeManager</td>
+<td>ZooKeeper</td>
 </tr>
 <tr>
 <td>192.168.1.60</td>
