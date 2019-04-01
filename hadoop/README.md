@@ -56,7 +56,7 @@
 export JAVA_HOME=/opt/jdk1.8.0_73<br>
 export PATH=$JAVA_HOME/bin:$PATH<br>
 export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar<br>
-3）机器192.168.1.60  打通免密到机器机器
+3）机器192.168.1.60  打通免密到机器机器<br>
 ssh-keygen <br>
 ssh-copy-id root@IP <br>
 
