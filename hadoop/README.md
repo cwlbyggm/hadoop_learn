@@ -16,12 +16,14 @@
 <td>ResourceManager</td>
 <td>NodeManager</td>
 <td>ZooKeeper</td>
+<td>JN</td>
 </tr>
 <tr>
 <td>192.168.1.60</td>
 <td>row 2, cell 2</td>
 <td>row 1, cell 1</td>
 <td>row 1, cell 2</td>
+<td>ResourceManager</td>
 <td>ResourceManager</td>
 <td>ResourceManager</td>
 </tr>
@@ -32,12 +34,14 @@
 <td>row 1, cell 2</td>
 <td>ResourceManager</td>
 <td>ResourceManager</td>
+<td>ResourceManager</td>
 </tr>
 <tr>
 <td>192.168.1.62</td>
 <td>row 2, cell 2</td>
 <td>row 1, cell 1</td>
 <td>row 1, cell 2</td>
+<td>ResourceManager</td>
 <td>ResourceManager</td>
 <td>ResourceManager</td>
 </tr>
