@@ -24,7 +24,7 @@
 <td>*</td>
 <td>*</td>
 <td>ResourceManager</td>
-<td>ResourceManager</td>
+<td>*</td>
 <td>*</td>
 </tr>
 <tr>
@@ -33,7 +33,7 @@
 <td>*</td>
 <td></td>
 <td>ResourceManager</td>
-<td>ResourceManager</td>
+<td>*</td>
 <td>*</td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@
 <td>*</td>
 <td></td>
 <td>ResourceManager</td>
-<td>ResourceManager</td>
+<td>*</td>
 <td>*</td>
 </tr>
 </table>
