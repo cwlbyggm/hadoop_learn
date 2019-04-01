@@ -20,7 +20,7 @@
 </tr>
 <tr>
 <td>192.168.1.60</td>
-<td>row 2, cell 2</td>
+<td>*</td>
 <td>row 1, cell 1</td>
 <td>row 1, cell 2</td>
 <td>ResourceManager</td>
@@ -29,7 +29,7 @@
 </tr>
 <tr>
 <td>192.168.1.61</td>
-<td>row 2, cell 2</td>
+<td>*</td>
 <td>row 1, cell 1</td>
 <td>row 1, cell 2</td>
 <td>ResourceManager</td>
@@ -38,7 +38,7 @@
 </tr>
 <tr>
 <td>192.168.1.62</td>
-<td>row 2, cell 2</td>
+<td></td>
 <td>row 1, cell 1</td>
 <td>row 1, cell 2</td>
 <td>ResourceManager</td>
