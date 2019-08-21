@@ -23,3 +23,5 @@ git push -u origin master<br>
 
 3、故障切换<br>
 bin/hdfs haadmin -transitionToActive nn1 <br>
+
+hdfs haadmin -transitionToActive -forcemanual nn1 <br>
